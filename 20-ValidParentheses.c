@@ -1,3 +1,5 @@
+//this submission returned 0ms runtime (beats 100%) and 8.58mb memory (beats 96.95%)
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
