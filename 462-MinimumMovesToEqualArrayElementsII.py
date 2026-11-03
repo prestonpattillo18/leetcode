@@ -1,4 +1,4 @@
-
+# 3ms (80.86%), 20.52MB (23.43%)
 
 from statistics import median
 
